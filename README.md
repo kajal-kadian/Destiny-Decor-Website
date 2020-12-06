@@ -1,7 +1,6 @@
-# InteriorWebsite
-Static Website for Interior Decorator company
+# Destiny Decor
+A static website for the Interior Designing project: Destiny Decor.
 
-This is a static template and it contains some essential services which is needed for any Interior decorator.
-If User go to the service page, user should do enquiry for perticular service from that page.
+Access the website here: <a href="https://kajal-kadian.github.io/Destiny-Decor-Website/">Destiny Decor</a>
 
 
